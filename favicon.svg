@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#0b0b0d"/>
-  <path d="M16 5 L20 14 L27 16 L20 18 L16 27 L12 18 L5 16 L12 14 Z" fill="#f0a83a"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#0b0b0d"/><text x="16" y="22" font-family="Georgia,serif" font-size="18" font-weight="700" fill="#cd9a3f" text-anchor="middle">B</text></svg>
